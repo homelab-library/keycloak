@@ -1,0 +1,6 @@
+---
+name: keycloak
+display_name: Keycloak
+ports:
+  - 8080
+  - 8443
