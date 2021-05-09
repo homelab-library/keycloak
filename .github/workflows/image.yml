@@ -8,7 +8,7 @@ on:
 
 jobs:
   keycloak:
-    name: Build keycloak Images
+    name: Build Keycloak Images
 
     runs-on: ubuntu-latest
     steps:

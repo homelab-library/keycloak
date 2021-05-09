@@ -4,3 +4,8 @@ display_name: Keycloak
 ports:
   - 8080
   - 8443
+
+upstream_link: 'https://www.keycloak.org/'
+description: |-
+  Add authentication to applications and secure services with minimum fuss.
+  No need to deal with storing users or authenticating users. It's all available out of the box.
